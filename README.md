@@ -31,6 +31,6 @@ pip install -r requirements.txt
 
 Ce projet a été réalisé par:
 
-- [@flmslms](https://github.com/flmslms)
+- Pierre GUILLOT
 - Victor ROMEAS
 - Loïs ALIROL
